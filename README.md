@@ -8,19 +8,19 @@
 * Gustavo Pereira Inoue – RM570549
 * Luca Baccari dos Santos – RM569807
 
----
+
 
 # Descrição do Projeto
 
 O FIREWATCH EDGE NODE é uma estação inteligente de monitoramento ambiental desenvolvida para identificar condições favoráveis ao surgimento de queimadas. O sistema utiliza sensores para coletar dados do ambiente e processa essas informações localmente por meio de um Arduino, gerando alertas em tempo real.
 
----
+
 
 # Objetivo da Solução
 
 Monitorar temperatura e umidade do ambiente para identificar níveis de risco de queimadas e emitir alertas preventivos de forma local, aplicando conceitos de Edge Computing.
 
----
+
 
 # Componentes Utilizados
 
@@ -35,7 +35,7 @@ Monitorar temperatura e umidade do ambiente para identificar níveis de risco de
 * Protoboard
 * Jumpers
 
----
+
 
 # Explicação do Funcionamento
 
@@ -47,7 +47,7 @@ O sensor DHT22 realiza a leitura da temperatura e da umidade do ambiente. O Ardu
 
 O nível de risco também é exibido no display LCD.
 
----
+
 
 # Estrutura do Circuito
 
@@ -75,7 +75,7 @@ O nível de risco também é exibido no display LCD.
 * SDA → A4
 * SCL → A5
 
----
+
 
 # Instruções de Execução
 
